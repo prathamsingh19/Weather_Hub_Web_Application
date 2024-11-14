@@ -1,6 +1,6 @@
 # Weather Hub Web Application ⛅
 
-Welcome to an **AI-powered** object detector for real-time webcam tracking. Detects **persons**, **objects**, and other elements quickly with enhanced accuracy and performance for seamless integration into various applications. 🌟
+**Weather Hub** is a modern, user-friendly weather web application that provides real-time weather data for countries around the world. With a sleek, **intuitive UI** and powerful search capabilities, Weather Hub ensures an unparalleled experience for users looking to check current **weather conditions**, forecasts, and more, from anywhere on **Earth**. 🌟
 
 ## 🚀 Features
 
